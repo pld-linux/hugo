@@ -1,5 +1,5 @@
 Summary:	PC Emulator
-Summary(pl):	Emulator PC
+Summary(pl.UTF-8):   Emulator PC
 Name:		hugo
 Version:	2.12
 Release:	1
@@ -14,7 +14,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hu-Go! PC Emulator.
 
-%description -l pl
+%description -l pl.UTF-8
 Hu-Go! Emulator PC.
 
 %prep
