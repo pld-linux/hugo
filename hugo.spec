@@ -1,5 +1,5 @@
 Summary:	PC Emulator
-Summary(pl.UTF-8):   Emulator PC
+Summary(pl.UTF-8):	Emulator PC
 Name:		hugo
 Version:	2.12
 Release:	1
